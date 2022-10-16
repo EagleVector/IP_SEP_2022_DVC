@@ -1,0 +1,8 @@
+[2022-10-16 16:43:24,918: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-10-16 16:43:24,919: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-10-16 16:43:24,919: INFO: common]: created directory at: artifacts
+[2022-10-16 16:43:24,919: INFO: common]: created directory at: artifacts/data_ingestion
+[2022-10-16 16:48:58,947: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-10-16 16:48:58,948: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-10-16 16:48:58,948: INFO: common]: created directory at: artifacts
+[2022-10-16 16:48:58,948: INFO: common]: created directory at: artifacts/data_ingestion
