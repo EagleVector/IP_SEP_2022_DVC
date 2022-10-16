@@ -5,14 +5,14 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 ## edit below variables as per your requirements -
 REPO_NAME = "IP_SEP_2022_DVC" # github repo name
-AUTHOR_USER_NAME = "c17hawke" # update as per your need
+AUTHOR_USER_NAME = "eaglevector" # update as per your need
 SRC_REPO = "IP_SEP_2022_DVC" # example sklearn etc
 LIST_OF_REQUIREMENTS = [] # core dependencies
 
 
 setup(
     name=SRC_REPO,
-    version="0.0.2",
+    version="0.0.3",
     author=AUTHOR_USER_NAME,
     description="A small package",
     long_description=long_description,
