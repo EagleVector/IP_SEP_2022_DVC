@@ -1,6 +1,11 @@
-# DVC - DL - TF - demo
+# Regression Project
 
-## commands - 
+## DATASET -
+https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.tgz
+
+## My Implementation -
+https://github.com/EagleVector/ML_Regression_Project_California_House_Price_Prediction/blob/main/HOUSE_PRICE.ipynb
+
 
 ### create a new env
 ```bash
